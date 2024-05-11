@@ -1,16 +1,12 @@
-### Hi there 👋
+### 🌱 Hi I'm Danial 🌱
 
-<!--
-**dania0x4C/dania0x4C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src = "https://img.shields.io/badge/node.js-20232a.svg?style=flat&logo=nodedotjs&logoColor=#5FA04E"> <img src = "https://img.shields.io/badge/ts-node-20232a.svg?style=flat&logo=ts-node&logoColor=#3178C6"> <img src = "https://img.shields.io/badge/nestjs-20232a.svg?style=flat&logo=nestjs&logoColor=#E0234E"> <img src = "https://img.shields.io/badge/python-20232a.svg?style=flat&logo=python&logoColor=#3776AB"> <img src = "https://img.shields.io/badge/mongodb-20232a.svg?style=flat&logo=mongodb&logoColor=#47A248"> <img src = "https://img.shields.io/badge/jupyter-20232a.svg?style=flat&logo=jupyter&logoColor=#F37626"> 
+<!-- 
+<img src = "https://img.shields.io/badge/amazonaws-20232a.svg?style=flat&logo=amazonaws&logoColor=#232F3E">
 -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=superhoneybee)](https://solved.ac/profile/superhoneybee) <br>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dania0x4C&show_icons=true&theme=radical) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dania0x4C&layout=compact)
+
+```jupyter(python + node.js)```
