@@ -4,7 +4,7 @@
 <!-- 
 <img src = "https://img.shields.io/badge/amazonaws-20232a.svg?style=flat&logo=amazonaws&logoColor=#232F3E">
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=superhoneybee)](https://solved.ac/profile/superhoneybee) <br>
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=superhoneybee)] -->(https://solved.ac/profile/superhoneybee) <br>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dania0x4C&show_icons=true&theme=radical) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dania0x4C&layout=compact)
