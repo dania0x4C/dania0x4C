@@ -7,5 +7,5 @@
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=superhoneybee)] -->(https://solved.ac/profile/superhoneybee) <br>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dania0x4C&show_icons=true&theme=radical) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danial0x4C&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dania0x4C&layout=compact&theme=dark"/>
 ```jupyter(python + node.js)```
