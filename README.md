@@ -1,10 +1,6 @@
 <div align="center"> 
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=danial01&fontColor=AAD1E7&fontSize=70&animation=fadeIn&fontAlignY=55)
-
-
-
-
   
  <br/>
  <br/>
@@ -29,7 +25,7 @@
         Statistics Korea Public Data Analysis, 'Analysis of consumption data', Participation <small>[2024.06-2024.07]</small><br/>
         K-Hackton project, 'Services for the disabled Modubus', Advanced into final round <small>[2024.07-2024.10]</small><br/>
         SMU AWS Hackton, 'Cooking video organizing service OurCook', Award 3rd <small>[2024.08]</small><br/>
-        SMU UMC-7th Club, 'Travel record service Travel-box' <small>[2024.09 ~ 2024.02]</small><br/>
+        SMU UMC-7th Club, 'Travel record service Travel-box' <small>[2024.09 ~ 2025.02]</small><br/>
         SMU Study, 'Reinforce Learning game Rush-hour' <small>[2024.12]</small><br/>
     </ul>
 </div>
