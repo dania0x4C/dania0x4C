@@ -37,7 +37,6 @@
         SMU Study, 'Reinforce Learning game Rush-hour' <small>[2024.12]</small><br/>
         assistant in Uponati, 'Link-View Service' <small> [2025.03 ~ 2025.06] </small><br/>
         SMU Soulmate, 'Multi-Modal (LLM, Affective Computing) AI Emotion Analysis Diary Service' <small>[2025.03~]</small><br/>
-
     </ul>
 </div>
 
