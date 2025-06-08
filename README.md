@@ -40,4 +40,12 @@
     </ul>
 </div>
 
+<h4>🛠 My Activities</h4>
+<div style="text-align: center;">
+    <ul style="list-style-type: none; padding: 0;">
+        SQL Developer
+    </ul>
+</div>
+
+
 <br/>
