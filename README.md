@@ -46,6 +46,7 @@
   <ul style="list-style-type: none; padding: 0;">
     SQLD (SQL Developer)                  [2025.04] <br/>
     EIP  (Engineer Information Processing)[2025.09] <br/>
+    T-S  (TOEIC Speaking IH 150 Score)    [2025.11] <br/>
   </ul>
 </div>
 
@@ -63,7 +64,7 @@
     SMU UMC-7th Club, 'Travel record service Travel-box' <small>[2024.09 ~ 2025.02]</small><br/>
     SMU Study, 'Reinforce Learning game Rush-hour' <small>[2024.12]</small><br/>
     assistant in Uponati, 'Link-View Service' <small>[2025.03 ~ 2025.06]</small><br/>
-    SMU Soulmate, 'Multi-Modal (LLM, Affective Computing) AI Emotion Analysis Diary Service' <small>[2025.03~ 2025.06]</small><br/>
+    SMU Soulmate, 'Multi-Modal (LLM, Affective Computing) AI Emotion Analysis Diary Service' <small>[2025.03~ 2025.11]</small><br/>
   </ul>
 </div>
 
