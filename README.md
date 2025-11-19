@@ -64,7 +64,7 @@
     SMU UMC-7th Club, 'Travel record service Travel-box' <small>[2024.09 ~ 2025.02]</small><br/>
     SMU Study, 'Reinforce Learning game Rush-hour' <small>[2024.12]</small><br/>
     assistant in Uponati, 'Link-View Service' <small>[2025.03 ~ 2025.06]</small><br/>
-    SMU Soulmate, 'Multi-Modal (LLM, Affective Computing) AI Emotion Analysis Diary Service' <small>[2025.03~ 2025.11]</small><br/>
+    SMU Soulmate, 'Multi-Modal (LLM, Affective Computing) AI Emotion Analysis Diary Service', Award 4rd <small>[2025.03~ 2025.11]</small><br/>
   </ul>
 </div>
 
