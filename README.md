@@ -47,7 +47,7 @@
     SQLD (SQL Developer)                  [2025.04] <br/>
     EIP  (Engineer Information Processing)[2025.09] <br/>
     T-S  (TOEIC Speaking IH 150 Score)    [2025.11] <br/>
-    ADSP (advanced data analytics)        [2025.03] <br/>
+    ADSP (advanced data analytics)        [2026.03] <br/>
   </ul>
 </div>
 
